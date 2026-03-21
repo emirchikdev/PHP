@@ -1,3 +1,7 @@
+<?php
+// Лабаратория #4 - ШАХМАТЫ
+?>
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
